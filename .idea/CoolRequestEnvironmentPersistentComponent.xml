@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CoolRequestEnvironmentPersistentComponent">
+    <option name="environments" value="[{&quot;environmentName&quot;:&quot;api_route&quot;,&quot;hostAddress&quot;:&quot;http://localhost:8000/api/**&quot;,&quot;id&quot;:&quot;86f5b6e3a2bdea1c59d9aca8de16203a&quot;,&quot;header&quot;:[],&quot;urlParam&quot;:[],&quot;formData&quot;:[],&quot;formUrlencoded&quot;:[]}]" />
+  </component>
+</project>

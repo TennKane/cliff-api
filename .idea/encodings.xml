@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cliffapi-client-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cliffapi/cliffapi-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cliffapi/gigotapi-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gigotapi-client-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gigotapi/gigotapi-common/src/main/java" charset="UTF-8" />
+  </component>
+</project>

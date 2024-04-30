@@ -1,0 +1,5 @@
+cliff-api:
+  client:
+    # CliffApi密钥
+    secret-id:
+    secret-key:
